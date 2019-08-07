@@ -8,6 +8,6 @@ and also explain the theoretical Backbone of this project, which is primarily ma
 Here are some impressions of which SphereTracing (if you can still call it that way after I modified it) is capable of.
 More Impressions are in the "Screenshots" fodler found in this repository.
 
-![image](Screenshots/XEFgqZFShh.jpg?raw=true)
+![XEFgqZFShh](https://user-images.githubusercontent.com/49918134/62643695-d42ccb00-b948-11e9-80d0-086843658280.png)
 
 
