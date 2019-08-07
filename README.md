@@ -10,4 +10,13 @@ More Impressions are in the "Screenshots" fodler found in this repository.
 
 ![XEFgqZFShh](https://user-images.githubusercontent.com/49918134/62643695-d42ccb00-b948-11e9-80d0-086843658280.png)
 
+![wGOJ4hChii](https://user-images.githubusercontent.com/49918134/62643761-f9213e00-b948-11e9-8790-ba654f99debe.png)
+
+![uQpOlUBHFL](https://user-images.githubusercontent.com/49918134/62643775-fe7e8880-b948-11e9-9bbb-ca18191712cc.png)
+
+![IHTrKEGGcW](https://user-images.githubusercontent.com/49918134/62643783-04746980-b949-11e9-8aa0-1bb90620b900.png)
+
+![wysUdhsYJv](https://user-images.githubusercontent.com/49918134/62643790-09391d80-b949-11e9-94ec-0254401851bf.png)
+
+![jVxx55stnG](https://user-images.githubusercontent.com/49918134/62643803-0f2efe80-b949-11e9-8bbf-f5dc9141ed46.png)
 
