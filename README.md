@@ -20,3 +20,6 @@ More Impressions are in the "Screenshots" folder found in this repository.
 
 ![jVxx55stnG](https://user-images.githubusercontent.com/49918134/62643803-0f2efe80-b949-11e9-8bbf-f5dc9141ed46.png)
 
+![pH3kDdAjUl](https://user-images.githubusercontent.com/49918134/62646091-cfb6e100-b94d-11e9-82e0-85498652f421.png)
+
+![TAr3Xji3Z4](https://user-images.githubusercontent.com/49918134/62646107-d80f1c00-b94d-11e9-93fb-685369a39030.png)
