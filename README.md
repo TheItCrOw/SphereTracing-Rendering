@@ -5,7 +5,7 @@ I will make a video about this topic, where I explain all about the implementati
 Unity3D Engine / Visual Studio / C# 
 and also explain the theoretical Backbone of this project, which is primarily math.
 
-If you want to take a deeper look into the main code that is needed for this project - look up the "CircleInstant" and "Controller" Scripts.
+If you want to take a deeper look into the main code that is needed for this project - look up the "CircleInstant", "ValueProvider" and "Controller" Scripts.
 
 Here are some impressions of which SphereTracing (if you can still call it that way after I modified it) is capable of.
 More Impressions are in the "Screenshots" folder found in this repository.
