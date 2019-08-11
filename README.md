@@ -1,9 +1,11 @@
 # SphereTracing-Rendering
 This is a repository for my journey to learn more about Sphere Tracing and the numerous possibilities it provides.
 
-I will make a video about this topic, where I explain all about the implementation using: 
+I have made a video about this topic, where I explain all about the implementation using: 
 Unity3D Engine / Visual Studio / C# 
 and also explain the theoretical Backbone of this project, which is primarily math.
+The video can be found here:
+https://www.youtube.com/watch?v=UCXvXTp1Qpo&t=21s
 
 If you want to take a deeper look into the main code that is needed for this project - look up the "CircleInstant", "ValueProvider" and "Controller" Scripts.
 
